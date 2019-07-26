@@ -1,6 +1,6 @@
 # IFC4.docset-for zeal
 
-I used a tool htmal2dash.py to convert the HTML version of IFC4 documentation to .docset file.
+I used a tool html2dash.py to convert the HTML version of IFC4 documentation to .docset file.
 
 DOCSET is a developer file created by Doxygen, a source code documentation system. It contains 
 an archive of documentation about a body of source code, which can encompass many different 
